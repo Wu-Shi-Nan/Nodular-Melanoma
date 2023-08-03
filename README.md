@@ -1,3 +1,3 @@
 # Nodular-Melanoma
 
-This library provides "The Establishment of the Metastasis and Prognosis Model for Patients with Nodular Melanoma Incorporating Machine The key code in the machine Learning methodology part of the Learning Algorithms article. For cooperation, please contact Shi-Nan Wu (wshinana99@163.com), Xiamen Universiy
+This repository provides the key code for the machine learning methodology section of the article titled "The Establishment of the Metastasis and Prognosis Model for Patients with Nodular Melanoma Incorporating Machine Learning Algorithms." For collaboration, please reach out to Shi-Nan Wu (wshinana99@163.com) at Xiamen University.
